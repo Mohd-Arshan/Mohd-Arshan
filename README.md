@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohd-Arshan
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning C lenguage
+- 🌱 I’m currently learning C language
 - 💞️ I’m looking for some friend who interested in programming
 - 📫 How to reach me :- mohdarshaan0013@gmail.com
 
