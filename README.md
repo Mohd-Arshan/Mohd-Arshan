@@ -170,11 +170,11 @@ Understand → Break Down → Design → Implement → Optimize → Explain
 ## 📊 PLAYER PROGRESS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=55A630&icon_color=55A630" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Arshan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=55A630&icon_color=55A630" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=55A630&fire=55A630&currStreakLabel=55A630" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Arshan&theme=dark&hide_border=true&background=0D1117&ring=55A630&fire=55A630&currStreakLabel=55A630" />
 </p>
 
 ---
